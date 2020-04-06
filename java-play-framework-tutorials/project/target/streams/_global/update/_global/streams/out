@@ -1,0 +1,4 @@
+[debug] "not up to date. inChanged = true, force = false
+[debug] Updating ProjectRef(uri("file:/Users/GR00673765/DemoApplications/play-framework/java-play-framework-tutorials/project/"), "java-play-framework-tutorials-build")...
+[debug] Done updating ProjectRef(uri("file:/Users/GR00673765/DemoApplications/play-framework/java-play-framework-tutorials/project/"), "java-play-framework-tutorials-build")
+[warn] There may be incompatibilities among your library dependencies; run 'evicted' to see detailed eviction warnings.
